@@ -1,4 +1,4 @@
-# Bloqueador de Internet — Praxedes
+# Bloqueador de Internet
 
 Ferramenta com interface gráfica para bloquear o acesso à internet de executáveis via Windows Firewall.
 
@@ -11,7 +11,7 @@ Ferramenta com interface gráfica para bloquear o acesso à internet de executá
 
 ## Como usar
 
-1. Abra o `BloqueadorPraxedes.exe`
+1. Abra o `Bloqueador.exe`
 2. Selecione a pasta que contém os programas
 3. Clique em **Procurar**
 4. (Opcional) Marque **Bloquear também a entrada de internet**
