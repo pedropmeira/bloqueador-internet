@@ -1,0 +1,17 @@
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários do app
+praxedes_fw_out.txt
+praxedes_fw_done.txt
+
+# IDE
+.vscode/
+.idea/
